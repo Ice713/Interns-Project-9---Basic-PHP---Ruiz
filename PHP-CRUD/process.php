@@ -2,7 +2,7 @@
 
 session_start();
 
-$mysqli = new mysqli('localhost', 'root', '', 'crud') or die(mysqli_error($mysqli));
+$mysqli = new mysqli('localhost', 'root', '', 'crud') or die(mysqli_error($mysqli)); //modify according to your database's credentials
 
 $id = 0;
 $update = false;
