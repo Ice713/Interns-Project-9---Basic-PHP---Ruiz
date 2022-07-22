@@ -7,13 +7,12 @@ For me, I used Laragon.
 First step is to follow along this tutorial from YouTube
 https://youtu.be/TvX712tpXlc
 
-And then, place the uploaded file in this repository to the folder, just like how it is done in the Youtube tutorial.
+And then, place the uploaded .php files from this repository to the PHP-CRUD folder you created on Laragon, just like how it is done in the Youtube tutorial.
 
 For DATABASE FILES
 Please strictly comply:
 
-When using laragon, add this file to this folder
-laragon\data\mysql
+When using laragon, add the crud folder from this repository to this folder → laragon\data\mysql
 
 Or else, the database would appear empty, or worse, disconnected.
 
